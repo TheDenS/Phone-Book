@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>contacts.db</file>
+        <file>contacts.sqlite</file>
+        <file>contacts.sqlite3</file>
+    </qresource>
+</RCC>
